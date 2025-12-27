@@ -1,6 +1,6 @@
 # 👋 Hi, I'm H.M.B. Sahan Bandara Herath
 
-🚀 **Full Stack Software Engineer | Undergraduate (Birmingham City University – via Java Institute)**  
+🚀 **Full Stack Software Engineer | Undergraduate (Birmingham City University )**  
 💻 Passionate about building modern, scalable and user-friendly software solutions.
 
 ---
