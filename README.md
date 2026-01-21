@@ -50,7 +50,7 @@ This is my final year, and I'm focused on building real-world applications, impr
 
 ## 🌐 Connect With Me
 - LinkedIn: www.linkedin.com/in/sahan-bandara-20b339344  
-- Portfolio Website: *coming soon*  
+- Portfolio Website: https://sahanb2005.github.io/sahanbandaraa  
 
 ---
 
