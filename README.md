@@ -54,7 +54,7 @@ Passionate about building modern, scalable, and user-friendly software solutions
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-bandara-20b339344)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sahanb2005.github.io/sahanbandaraa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sahan-cinematic-portfolio.vercel.app)
 
 ---
 ⭐ **Feel free to explore my repositories and follow my journey!**
